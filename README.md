@@ -17,32 +17,32 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas (Unicesumar): Aprofundament
 Essa combinação me proporciona uma visão completa, que vai da prática técnica à análise estratégica de software.
 
 <p align="left">
-    <a href="https://www.instagram.com/erick_monteiro19/">
+    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent/QgrcJHsNmtrwNwnXfXtXVXLjJTZFSWbmqWl">
         <img 
-            alt="instagram subscribers" 
-            title="Me siga no instagram" 
-            src="https://socialblade.com/instagram/user/erick_monteiro19"
+            alt="e-gmail" 
+            title="gmail" 
+            src="https://custom-icon-badges.demolab.com/badge/-erickmonteiro300@gmail.com.br-red?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/erick-gabriel-b0767b1a2/">
         <img 
             alt="linkedin views" 
             title="Me siga no linkedin" 
-            src="https://www.linkedin.com/mynetwork/invite-connect/connections/"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/erick203?tab=repositories">
         <img 
             alt="Repositories" 
             title="Total de estrelas GitHub" 
-            src="https://github.com/erick203?tab=followers"
+            src="https://custom-icon-badges.demolab.com/github/stars/erick203?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/erick203">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://github.com/erick203?tab=followers"
+            src="https://custom-icon-badges.demolab.com/github/followers/erick203?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -87,14 +87,14 @@ Essa combinação me proporciona uma visão completa, que vai da prática técni
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=erick203h&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=erick203&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick203h&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
