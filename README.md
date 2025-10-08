@@ -17,26 +17,25 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas (Unicesumar): Aprofundament
 Essa combinação me proporciona uma visão completa, que vai da prática técnica à análise estratégica de software.
 
 <p align="left">
-    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent/QgrcJHsNmtrwNwnXfXtXVXLjJTZFSWbmqWl">
+    <a href="mailto:erickmonteiro3000@gmail.com">
         <img 
             alt="e-gmail" 
             title="gmail" 
-            src="https://custom-icon-badges.demolab.com/badge/-erickmonteiro300@gmail.com.br-red?style=for-the-badge&logo=mention&logoColor=white"
+            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/erick-gabriel-b0767b1a2/">
         <img 
             alt="linkedin views" 
             title="Me siga no linkedin" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
         />
     </a> 
-    <a href="https://github.com/erick203?tab=repositories">
+    <a href="https://www.instagram.com/erick_monteiro19/">
         <img 
-            alt="Repositories" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/erick203?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     </a>
     <a href="https://github.com/erick203">
         <img 
