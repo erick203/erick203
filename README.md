@@ -4,7 +4,7 @@
 
 **`Sobre mim`**
 
-Sou Erick, com data de nascimento em 9 de junho de 2000, e moro em São João de Meriti. Minhas paixões se dividem entre o futebol e a área de Tecnologia , onde busco consolidar minha carreira.
+Sou Erick Gabriel, nasci em junho de 2000, e moro em São João de Meriti. Minhas paixões se dividem entre o futebol e a área de Tecnologia , onde busco consolidar minha carreira.
 
 **`Formação e Capacitação`**
 
