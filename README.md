@@ -17,7 +17,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas (Unicesumar): Aprofundament
 Essa combinação me proporciona uma visão completa, que vai da prática técnica à análise estratégica de software.
 
 <p align="left">
-   <a href="mailto:erickmonteiro3000@gmail.com">erickmonteiro3000@gmail.com</a>
+<a href="mailto:erickmonteiro3000@gmail.com">Enviar E-mail</a>
         <img 
             alt="e-gmail" 
             title="gmail" 
