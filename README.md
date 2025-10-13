@@ -22,7 +22,7 @@ Essa combinação me proporciona uma visão completa, que vai da prática técni
 
 
 <p align="center">
-<a href="mail:erickmonteiro3000@gmail.com">
+<a href="mailto:erickmonteiro3000@gmail.com">Erick Monteiro</a>
         <img 
             alt="e-gmail" 
             title="gmail" 
