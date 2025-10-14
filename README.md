@@ -18,7 +18,7 @@ Essa combinação me proporciona uma visão completa, que vai da prática técni
 
 **`Objetivo`**
 
-Meu objetivo é adquirir conhecimento aprofundado nas áreas de desenvolvimento e tecnologia.
+Meu principal objetivo é aprimorar minhas habilidades e adquirir expertise aprofundada nas áreas de desenvolvimento de sistemas e arquitetura de tecnologia.
 
 <p align="center">
   <a href="https://github.com/erick203">
