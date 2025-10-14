@@ -96,6 +96,14 @@ Essa combinação me proporciona uma visão completa, que vai da prática técni
     />
     <img 
     align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    />
+    <img 
+    align="left" 
     alt=" MySQLb" 
     title=" MySQL"
     width="30px" 
