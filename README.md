@@ -15,6 +15,11 @@ Técnico em Informática para Internet (IFRJ): Foco em conhecimentos práticos d
 Tecnólogo em Análise e Desenvolvimento de Sistemas (Unicesumar): Aprofundamento em lógica de programação, análise de requisitos e criação de sistemas robustos.
 
 Essa combinação me proporciona uma visão completa, que vai da prática técnica à análise estratégica de software.
+
+**`Objetivo`**
+
+Meu objetivo é adquirir conhecimento aprofundado nas áreas de desenvolvimento e tecnologia.
+
 <p align="center">
   <a href="https://github.com/erick203">
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632">
