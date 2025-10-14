@@ -21,7 +21,7 @@ Essa combinação me proporciona uma visão completa, que vai da prática técni
 Meu principal objetivo é aprimorar minhas habilidades e adquirir expertise aprofundada nas áreas de desenvolvimento de sistemas e arquitetura de tecnologia.
 
 <p align="center">
-  <a href="https://github.com/erick203">
+  <a href="https://github.com/erick203?tab=repositories">
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632">
 </p>
 
