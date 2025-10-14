@@ -53,7 +53,7 @@ Essa combinação me proporciona uma visão completa, que vai da prática técni
             
 ---
 
-### 🤖 I'm learning languages ​​and technologies
+### 🤖 Estou aprendendo linguagens e tecnologias
 <img 
     align="left" 
     alt="HTML"
