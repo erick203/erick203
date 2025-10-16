@@ -133,11 +133,3 @@ Meu principal objetivo é aprimorar minhas habilidades e adquirir expertise apro
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https:">
-  <source media="(prefers-color-scheme: light)" srcset="https:">
-  <img align="center" alt="github contribution grid snake animation" src="">
-</picture>
