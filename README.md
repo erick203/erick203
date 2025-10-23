@@ -1,25 +1,25 @@
-# 🚀 Erick Gabriel
+# 💎 Erick Gabriel
 
-### Desenvolvedor de Software em Formação | Análise e Desenvolvimento de Sistemas
-
----
-
-## 🎯 Objetivo Profissional
-
-Busco oportunidades de **Estágio** ou posição **Júnior** na área de Desenvolvimento de Sistemas para aplicar e expandir minhas competências em um ambiente de produção. Meu foco é na construção de sistemas robustos e eficientes, com interesse especial em Arquitetura de Software e Back-end.
-
-## 🎓 Formação Acadêmica
-
-Minha trajetória combina profundidade técnica e visão estratégica:
-
-* **Tecnólogo em Análise e Desenvolvimento de Sistemas (Unicesumar):** Foco em lógica de programação avançada, análise de requisitos e metodologias de desenvolvimento.
-* **Técnico em Informática para Internet (IFRJ):** Base sólida em infraestrutura de TI, redes e Fundamentos de Desenvolvimento Web (front-end e back-end).
-
-Essa dupla formação assegura uma compreensão completa do ciclo de vida do software, da concepção à entrega.
+### ✨ Desenvolvedor de Software | Análise de Sistemas (Foco em Back-end)
 
 ---
 
-### 💻 Habilidades Técnicas (Tech Stack)
+## 🎯 Objetivo de Carreira
+
+Busco ativamente por oportunidades de **Estágio** ou posição **Júnior** para iniciar minha contribuição em projetos de desenvolvimento. Meu foco é na construção de soluções de software escaláveis e eficientes, aplicando meus conhecimentos em lógica de programação e arquitetura de sistemas.
+
+## 🎓 Formação & Expertise
+
+Minha formação é dual, fornecendo uma base completa do ciclo de vida do software:
+
+* **Tecnólogo em Análise e Desenvolvimento de Sistemas (Unicesumar):** Foco em análise de requisitos, design de sistemas e aprofundamento em lógica e metodologias ágeis.
+* **Técnico em Informática para Internet (IFRJ):** Fundamentação sólida em infraestrutura, redes e o básico de desenvolvimento web (front-end e back-end).
+
+Essa combinação me posiciona como um profissional com visão holística, capaz de analisar e executar.
+
+---
+
+### 💻 Minhas Skills Técnicas
 
 <p align="center">
   <img
@@ -29,7 +29,7 @@ Essa dupla formação assegura uma compreensão completa do ciclo de vida do sof
 </p>
 <br/>
 
-### 📊 Performance e Contribuições no GitHub
+### 📊 Performance e Atividade no GitHub
 
 <p align="center">
   <img
@@ -40,7 +40,7 @@ Essa dupla formação assegura uma compreensão completa do ciclo de vida do sof
   />
   <img
     alt="GitHub Top Languages"
-    height="200"
+    height="190"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick203&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
@@ -49,7 +49,7 @@ Essa dupla formação assegura uma compreensão completa do ciclo de vida do sof
 
 ---
 
-### 📈 Histórico de Contribuições (Pac-Man)
+### 🕹️ Histórico de Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erick203/erick203/output/pacman-contribution-graph-dark.svg" type="image/svg+xml">
@@ -59,7 +59,7 @@ Essa dupla formação assegura uma compreensão completa do ciclo de vida do sof
 
 ---
 
-## 🔗 Entre em Contato
+## 🔗 Contato & Engajamento
 
 <p align="center">
   <a href="https://github.com/erick203?tab=repositories">
@@ -92,5 +92,5 @@ Essa dupla formação assegura uma compreensão completa do ciclo de vida do sof
 </p>
 
 <p align="center">
-  Interessado em colaboração? Sinta-se à vontade para me enviar um e-mail!
+  Pronto para colaborar em projetos inovadores. Ficarei feliz em conectar-me!
 </p>
