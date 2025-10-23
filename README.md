@@ -1,4 +1,4 @@
-# 💎 Erick Gabriel
+# 👨🏾‍💻 Erick Gabriel
 
 ### ✨ Desenvolvedor de Software | Análise de Sistemas (Foco em Back-end)
 
