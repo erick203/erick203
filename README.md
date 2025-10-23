@@ -1,133 +1,44 @@
-# 👨🏾‍💻 Erick Gabriel
+# 🚀 Erick Gabriel
 
-**`Futuro Desenvolvedor de Software`**
-
-## 🌐 Sobre mim
-
-Sou Erick Gabriel, nascido em junho de 2000, e moro em São João de Meriti. Minhas paixões se dividem entre o futebol, onde valorizo o trabalho em equipe e a estratégia, e a área de Tecnologia, onde busco consolidar minha carreira como Desenvolvedor de Software.
-
-## 🎓 Formação e Capacitação
-
-Em busca de uma formação sólida e abrangente, estou investindo em uma dupla formação em TI:
-
-* **Técnico em Informática para Internet (IFRJ):** Foco em conhecimentos práticos de infraestrutura de TI e bases para desenvolvimento web.
-* **Tecnólogo em Análise e Desenvolvimento de Sistemas (Unicesumar):** Aprofundamento em lógica de programação, análise de requisitos e criação de sistemas robustos.
-
-Essa combinação me proporciona uma visão completa, unindo a **expertise prática** em desenvolvimento web com a **análise estratégica** e criação de sistemas robustos.
-
-## 🎯 Objetivo
-
-Meu principal objetivo é aprimorar minhas habilidades e adquirir expertise aprofundada nas áreas de desenvolvimento de sistemas e arquitetura de tecnologia. Atualmente, estou **em busca de oportunidades de Estágio** ou posição Júnior para aplicar esses conhecimentos em um ambiente profissional desafiador.
-
-
-
-<p align="center">
-  <a href="https://github.com/erick203?tab=repositories">
-   <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632">
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="mailto:erickmonteiro3000@gmail.com">
-    <img
-      alt="e-gmail"
-      title="gmail"
-      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/erick-gabriel-b0767b1a2/">
-    <img
-      alt="linkedin views"
-      title="Me siga no linkedin"
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
-    />
-  </a>
-  <a href="https://www.instagram.com/erick_monteiro19/">
-    <img
-      alt="Instagram"
-      title="Me siga no Instagram"
-      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    />
-  </a>
-  <a href="https://github.com/erick203">
-    <img
-      alt="Seguidores"
-      title="Me siga no GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/erick203?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  </a>
-</p>
+### Desenvolvedor de Software em Formação | Análise e Desenvolvimento de Sistemas
 
 ---
 
-### 💻 Linguagens e Tecnologias
+## 🎯 Objetivo Profissional
 
-<p align="left">
-  <img
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-  />
-  <img
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-  />
-  <img
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-  />
-  <img
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-  />
-  <img
-    alt="Github"
-    title="Github"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-  />
-  <img
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-  />
-  <img
-    alt=" MySQL"
-    title=" MySQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-  />
-</p>
-<br>
+Busco oportunidades de **Estágio** ou posição **Júnior** na área de Desenvolvimento de Sistemas para aplicar e expandir minhas competências em um ambiente de produção. Meu foco é na construção de sistemas robustos e eficientes, com interesse especial em Arquitetura de Software e Back-end.
 
-### 📊 Estatísticas
+## 🎓 Formação Acadêmica
+
+Minha trajetória combina profundidade técnica e visão estratégica:
+
+* **Tecnólogo em Análise e Desenvolvimento de Sistemas (Unicesumar):** Foco em lógica de programação avançada, análise de requisitos e metodologias de desenvolvimento.
+* **Técnico em Informática para Internet (IFRJ):** Base sólida em infraestrutura de TI, redes e Fundamentos de Desenvolvimento Web (front-end e back-end).
+
+Essa dupla formação assegura uma compreensão completa do ciclo de vida do software, da concepção à entrega.
+
+---
+
+### 💻 Habilidades Técnicas (Tech Stack)
 
 <p align="center">
   <img
-    align="left"
+    alt="Tech Skills"
+    src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github&perline=7"
+  />
+</p>
+<br/>
+
+### 📊 Performance e Contribuições no GitHub
+
+<p align="center">
+  <img
     alt="GitHub Stats"
-    height="200"
+    height="190"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=erick203&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
   <img
-    align="left"
     alt="GitHub Top Languages"
     height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick203&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
@@ -138,10 +49,48 @@ Meu principal objetivo é aprimorar minhas habilidades e adquirir expertise apro
 
 ---
 
+### 📈 Histórico de Contribuições (Pac-Man)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erick203/erick203/output/pacman-contribution-graph-dark.svg" type="image/svg+xml">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erick203/erick203/output/pacman-contribution-graph.svg" type="image/svg+xml">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/erick203/erick203/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/erick203/erick203/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
+
+## 🔗 Entre em Contato
+
+<p align="center">
+  <a href="https://github.com/erick203?tab=repositories">
+   <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632">
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:erickmonteiro3000@gmail.com" target="_blank">
+    <img
+      alt="E-mail"
+      title="E-mail"
+      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/erick-gabriel-b0767b1a2/" target="_blank">
+    <img
+      alt="LinkedIn"
+      title="LinkedIn"
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+  <a href="https://github.com/erick203" target="_blank">
+    <img
+      alt="GitHub Followers"
+      title="Seguidores no GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/erick203?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+</p>
+
+<p align="center">
+  Interessado em colaboração? Sinta-se à vontade para me enviar um e-mail!
+</p>
