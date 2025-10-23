@@ -19,9 +19,11 @@ Essa combinação me proporciona uma visão completa, unindo a **expertise prát
 
 Meu principal objetivo é aprimorar minhas habilidades e adquirir expertise aprofundada nas áreas de desenvolvimento de sistemas e arquitetura de tecnologia. Atualmente, estou **em busca de oportunidades de Estágio** ou posição Júnior para aplicar esses conhecimentos em um ambiente profissional desafiador.
 
+
+
 <p align="center">
   <a href="https://github.com/erick203?tab=repositories">
-    Meus Repositórios
+   <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632">
   </a>
 </p>
 
