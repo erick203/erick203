@@ -66,7 +66,7 @@ Essa combinação me posiciona como um profissional com visão holística, capaz
 
 <p align="center">
   <a href="https://erick203.github.io/meucurriculo/">
-   <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632">
+   <img src="https://erick203.github.io/jogo-da-cobrinha/">
   </a>
 </p>
 
