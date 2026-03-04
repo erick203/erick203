@@ -65,12 +65,6 @@ Essa combinação me posiciona como um profissional com visão holística, capaz
 ## 🔗 Contato & Engajamento
 
 <p align="center">
-  <a href="https://erick203.github.io/meucurriculo/">
-   <img src="https://erick203.github.io/jogo-da-cobrinha/">
-  </a>
-</p>
-
-<p align="center">
   <a href="mailto:erickmonteiro3000@gmail.com" target="_blank">
     <img
       alt="E-mail"
