@@ -1,22 +1,29 @@
-# 👨🏾‍💻 Erick Gabriel
-
-### ✨ Desenvolvedor de Software | Análise de Sistemas (Foco em Back-end)
+<div align="center">
+  <h1>👨🏾‍💻 Erick Gabriel</h1>
+  <h3>Desenvolvedor de Software | Análise de Sistemas (Foco em Back-end)</h3>
+  <p>🚀 <b>Em busca de uma oportunidade como Estagiário ou Desenvolvedor Júnior</b></p>
+  <p>Focado na construção de soluções escaláveis e eficientes com rigorosa qualidade de código.</p>
+</div>
 
 ---
 
-## 🎯 Objetivo de Carreira
+### 🎯 Objetivo Profissional
 
-Busco ativamente por oportunidades de **Estágio** ou posição **Júnior** para iniciar minha contribuição em projetos de desenvolvimento. Meu foco é na construção de soluções de software escaláveis e eficientes, aplicando meus conhecimentos em lógica de programação e arquitetura de sistemas.
+Busco ativamente por uma oportunidade de **Estágio ou posição Júnior** para iniciar minha contribuição em projetos de desenvolvimento. Meu foco é na construção de soluções de software escaláveis e eficientes, aplicando meus conhecimentos em lógica de programação e arquitetura de sistemas para entregar resultados de alto impacto.
 
-## 🎓 Formação & Expertise
+---
 
-Atualmente, foco-me no desenvolvimento de competências que abrangem todo o ciclo de vida do software, integrando estratégia e execução técnica:
+### 🎓 Formação & Expertise
+
+Atualmente, foco no desenvolvimento de competências que abrangem todo o ciclo de vida do software, integrando estratégia e execução técnica:
 
 * **Tecnologia em Análise e Desenvolvimento de Sistemas (UniCesumar - Cursando)** Foco acadêmico em transformar necessidades de negócio em soluções funcionais através de **Análise de Requisitos** e **Design de Sistemas**. Aplicação prática de **Lógica de Programação** e **Metodologias Ágeis** para otimização de processos.
 
 * **Técnico em Informática para Internet (IFRJ - Cursando)** Base sólida em infraestrutura de TI, redes e fundamentos de desenvolvimento **Full Stack**. Esta formação técnica permite-me compreender a camada física e lógica das aplicações web.
 
-> **Diferencial:** Esta combinação de graduação e curso técnico proporciona-me uma **visão holística**, sendo capaz de transitar entre o planeamento arquitetural e a execução técnica com foco em performance e escalabilidade.
+> **💡 Diferencial:** Esta combinação de graduação e curso técnico proporciona-me uma **visão holística**, sendo capaz de transitar entre o planejamento arquitetural e a execução técnica com foco em performance e escalabilidade.
+
+---
 
 ### 💻 Minhas Skills Técnicas
 
@@ -26,6 +33,8 @@ Atualmente, foco-me no desenvolvimento de competências que abrangem todo o cicl
     src="https://skillicons.dev/icons?i=html,css,js,java,react,python,mysql,git,github&perline=9"
   />
 </p>
+
+---
 
 ### 📊 Performance e Atividade no GitHub
 
@@ -52,15 +61,17 @@ Atualmente, foco-me no desenvolvimento de competências que abrangem todo o cicl
 
 ### 🕹️ Histórico de Contribuições
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erick203/erick203/output/pacman-contribution-graph-dark.svg" type="image/svg+xml">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erick203/erick203/output/pacman-contribution-graph.svg" type="image/svg+xml">
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/erick203/erick203/output/pacman-contribution-graph.svg">
 </picture>
+</p>
 
 ---
 
-## 🔗 Contato & Engajamento
+### 🔗 Contato & Engajamento
 
 <p align="center">
   <a href="mailto:erickmonteiro3000@gmail.com" target="_blank">
