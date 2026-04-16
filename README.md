@@ -24,10 +24,9 @@ Essa combinação me posiciona como um profissional com visão holística, capaz
 <p align="center">
   <img
     alt="Tech Skills"
-    src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github&perline=7"
+    src="https://skillicons.dev/icons?i=html,css,js,java,react,python,mysql,git,github&perline=9"
   />
 </p>
-<br/>
 
 ### 📊 Performance e Atividade no GitHub
 
