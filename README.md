@@ -10,14 +10,13 @@ Busco ativamente por oportunidades de **Estágio** ou posição **Júnior** para
 
 ## 🎓 Formação & Expertise
 
-Minha formação é dual, fornecendo uma base completa do ciclo de vida do software:
+Atualmente, foco-me no desenvolvimento de competências que abrangem todo o ciclo de vida do software, integrando estratégia e execução técnica:
 
-* **Tecnólogo em Análise e Desenvolvimento de Sistemas (Unicesumar):** Foco em análise de requisitos, design de sistemas e aprofundamento em lógica e metodologias ágeis.
-* **Técnico em Informática para Internet (IFRJ):** Fundamentação sólida em infraestrutura, redes e o básico de desenvolvimento web (front-end e back-end).
+* **Tecnologia em Análise e Desenvolvimento de Sistemas (UniCesumar - Cursando)** Foco acadêmico em transformar necessidades de negócio em soluções funcionais através de **Análise de Requisitos** e **Design de Sistemas**. Aplicação prática de **Lógica de Programação** e **Metodologias Ágeis** para otimização de processos.
 
-Essa combinação me posiciona como um profissional com visão holística, capaz de analisar e executar.
+* **Técnico em Informática para Internet (IFRJ - Cursando)** Base sólida em infraestrutura de TI, redes e fundamentos de desenvolvimento **Full Stack**. Esta formação técnica permite-me compreender a camada física e lógica das aplicações web.
 
----
+> **Diferencial:** Esta combinação de graduação e curso técnico proporciona-me uma **visão holística**, sendo capaz de transitar entre o planeamento arquitetural e a execução técnica com foco em performance e escalabilidade.
 
 ### 💻 Minhas Skills Técnicas
 
