@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👨🏾‍💻 Erick Gabriel</h1>
+  <h1>👨🏾‍💻 Erick Gabriel Da Silva Monteiro</h1>
   <h3>Desenvolvedor de Software | Análise de Sistemas (Foco em Back-end)</h3>
   <p>🚀 <b>Em busca de uma oportunidade como Estagiário ou Desenvolvedor Júnior</b></p>
   <p>Focado na construção de soluções escaláveis e eficientes com rigorosa qualidade de código.</p>
