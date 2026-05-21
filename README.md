@@ -40,19 +40,17 @@ Atualmente, foco no desenvolvimento de competências que abrangem todo o ciclo d
 
 <div align="center">
   <a href="https://github.com/erick203" target="_blank">
-    <img
-      alt="Estatísticas do GitHub do Erick"
-      height="190"
-      style="margin-right: 10px; margin-bottom: 20px;"
-      src="https://github-readme-stats.vercel.app/api?username=erick203&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true"
+    <img 
+      alt="Estatísticas do GitHub do Erick" 
+      src="https://github-readme-stats.vercel.app/api?username=erick203&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" 
+      height="165"
     />
   </a>
-  
   <a href="https://github.com/erick203" target="_blank">
-    <img
-      alt="Linguagens Mais Usadas do Erick"
-      height="190"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick203&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true"
+    <img 
+      alt="Linguagens Mais Usadas do Erick" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick203&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" 
+      height="165"
     />
   </a>
 </div>
