@@ -15,13 +15,13 @@ Busco ativamente por uma oportunidade de **Estágio ou posição Júnior** para 
 
 ### 🎓 Formação & Expertise
 
-Atualmente, foco no desenvolvimento de competências que abrangem todo o ciclo de vida do software, integrando estratégia e execução técnica:
+Atualmente, foco no desenvolvimento de competências em todo o ciclo de vida do software, unindo planejamento estratégico e execução técnica:
 
-* **Tecnologia em Análise e Desenvolvimento de Sistemas (UniCesumar - Cursando)** Foco acadêmico em transformar necessidades de negócio em soluções funcionais através de **Análise de Requisitos** e **Design de Sistemas**. Aplicação prática de **Lógica de Programação** e **Metodologias Ágeis** para otimização de processos.
+* **Tecnologia em Análise e Desenvolvimento de Sistemas (UniCesumar - Cursando):** Formação focada em traduzir necessidades de negócio em soluções funcionais por meio de **Análise de Requisitos** e **Design de Sistemas**. Aplicação prática de **Lógica de Programação** e **Metodologias Ágeis**.
 
-* **Técnico em Informática para Internet (IFRJ - Cursando)** Base sólida em infraestrutura de TI, redes e fundamentos de desenvolvimento **Full Stack**. Esta formação técnica permite-me compreender a camada física e lógica das aplicações web.
+* **Técnico em Informática para Internet (IFRJ - Concluído):** Base sólida em infraestrutura de TI, redes e fundamentos de desenvolvimento **Full Stack**, garantindo compreensão ampla das camadas física e lógica de aplicações web.
 
-> **💡 Diferencial:** Esta combinação de graduação e curso técnico proporciona-me uma **visão holística**, sendo capaz de transitar entre o planejamento arquitetural e a execução técnica com foco em performance e escalabilidade.
+> 💡 **Diferencial:** A união da graduação com a formação técnica me proporciona uma **visão holística do desenvolvimento**, permitindo transitar com facilidade entre a arquitetura do software e a escrita de código focada em performance e escalabilidade.
 
 ---
 
