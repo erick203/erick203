@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👨🏾‍💻 Erick Gabriel Da Silva Monteiro</h1>
-  <h3>Desenvolvedor de Software | Análise de Sistemas </h3>
+  <h3>Técnico em Informática para Internet | Desenvolvedor de Software | Análise de Sistemas </h3>
   <p>🚀 <b>Em busca de uma oportunidade como Desenvolvedor</b></p>
   <p>Focado na construção de soluções escaláveis e eficientes com rigorosa qualidade de código.</p>
 </div>
