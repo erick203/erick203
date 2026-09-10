@@ -109,7 +109,7 @@ Atualmente, foco no desenvolvimento de competências em todo o ciclo de vida do 
 
 ###  Contato
 
- **e-mail:** Rua Cleber Santos de Carvalho — Vilar dos Teles, São João de Meriti - RJ (CEP: 25576-261)  
+✉️ **E-mail:** [erickmonteiro3000@gmail.com](mailto:erickmonteiro3000@gmail.com) 
 📱 **Telefone / WhatsApp:** [+55 (21) 96403-4657](https://wa.me/5521964034657)
 
 <p align="center">
