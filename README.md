@@ -1,65 +1,72 @@
 <div align="center">
   <h1>👨🏾‍💻 Erick Gabriel Da Silva Monteiro</h1>
-  <h3>Técnico em Informática para Internet | Desenvolvedor de Software | Análise de Sistemas </h3>
-  <p>🚀 <b>Em busca de uma oportunidade como Desenvolvedor</b></p>
-  <p>Focado na construção de soluções escaláveis e eficientes com rigorosa qualidade de código.</p>
+  <h3>Futuro Analista e Desenvolvedor de Sistemas | Profissional de TI</h3>
+  <p>🚀 <b>Em busca de oportunidades em Tecnologia (Desenvolvimento, Suporte, Infraestrutura ou Sistemas)</b></p>
+  <p>Focado em soluções eficientes, aprendizado contínuo e resolução prática de problemas.</p>
 </div>
 
 ---
 
 ### 🎯 Objetivo Profissional
 
-Busco ativamente por uma oportunidade de **posição Júnior** para iniciar minha contribuição em projetos de desenvolvimento. Meu foco é na construção de soluções de software escaláveis e eficientes, aplicando meus conhecimentos em lógica de programação e arquitetura de sistemas para entregar resultados de alto impacto.
+Busco oportunidades para atuar e evoluir em diferentes frentes da tecnologia, aplicando minha bagagem técnica em suporte, infraestrutura e redes, alinhada aos meus estudos em desenvolvimento de software, arquitetura de sistemas e lógica de programação.
 
 ---
 
 ### 💼 Experiência Profissional
 
 #### **Prefeitura de São João de Meriti**  
-**Técnico em Informática para Internet — Analista de Suporte de TI | Infraestrutura | Service Desk N2**  
-📅 *Junho de 2025 – Presente* | 📍 *Rio de Janeiro, Brasil*
+**Técnico de Suporte Nível 2 / Infraestrutura**  
+📅 *Janeiro de 2025 – Presente* | 📍 *Rio de Janeiro, Brasil*
 
-* **Suporte Especializado e Troubleshooting N2:** Diagnóstico avançado e resolução ágil de incidentes de média e alta complexidade em ambientes Windows, ecossistemas corporativos e aplicações críticas de alta disponibilidade.
-* **Gestão de Infraestrutura de Endpoints:** Administração completa do ciclo de vida de ativos (hardware e software), incluindo provisionamento, aplicação de imagens corporativas, atualizações, manutenção preventiva/corretiva e descarte seguro.
-* **Redes e Conectividade Corporativa:** Suporte técnico à infraestrutura de rede local (LAN e Wi-Fi), atuando em cabeamento estruturado, diagnósticos em switches, roteadores, rotas, endereçamento IP (DHCP/DNS) e VPNs.
-* **Operação de Service Desk e ITSM:** Gestão de incidentes e requisições fundamentada nas boas práticas ITIL. Domínio de ferramentas corporativas de chamados, rigor no cumprimento de SLAs, priorização por impacto/urgência e atualização contínua de bases de conhecimento.
-* **Governança e IAM na Administração Pública:** Administração de identidades digitais e gestão de privilégios de acesso conforme o princípio do privilégio mínimo. Atuação alinhada às diretrizes de transformação digital governamental, garantindo conformidade com a LGPD, aplicação de políticas de segurança e auditoria refinada de acessos (logs).
-* **Infraestrutura Audiovisual e Colaboração:** Suporte técnico a salas de reunião executivas, videoconferências e eventos híbridos, garantindo o funcionamento perfeito de periféricos e sistemas de comunicação.
-* **Projetos, Melhoria Contínua e Vendors:** Participação ativa em projetos de migração, rollout de ativos, análise de causa raiz (RCA) para mitigação de falhas recorrentes, controle rigoroso de inventário e interface técnica com fornecedores externos.
+* **Resolução de Incidentes N2:** Atuação na diagnóstico e solução de incidentes técnicos em sistemas operacionais, aplicações corporativas e infraestrutura de rede.
+* **Gestão de Acessos e Ativos:** Administração de contas de usuários, gestão de permissões de acesso e manutenção do inventário de ativos de TI.
+* **Infraestrutura e ITSM:** Suporte à rede local (LAN, Wi-Fi, VPN) e atendimento de chamados baseado nas melhores práticas ITIL.
 
 ---
 
 #### **Prefeitura Municipal de São João de Meriti**  
-**Técnico em Manutenção & Suporte em Informática — Técnico de Suporte Nível 1 | Help Desk | Service Desk | Suporte Híbrido**  
+**Técnico de Suporte Nível 1 / Help Desk**  
 📅 *Junho de 2020 – Janeiro de 2025 (4 anos e 8 meses)* | 📍 *São João de Meriti, Rio de Janeiro, Brasil*
 
-> Com sólida experiência no atendimento técnico especializado (Service Desk), atuo focado na resolução ágil de incidentes e na garantia da continuidade operacional dos usuários. Minha abordagem combina rigor técnico com um atendimento consultivo, priorizando sempre o *First Call Resolution* (FCR) e a satisfação do cliente final.
-
-* **Suporte a Ambientes Híbridos:** Gerenciamento do ciclo de vida de usuários (criação, manutenção e desativação) e controle de permissões em diretórios locais e em nuvem.
-* **Diagnóstico e Troubleshooting:** Atuação técnica na resolução de falhas de hardware, sistemas operacionais Windows e aplicações do ecossistema Microsoft 365.
-* **Gestão Estratégica de Chamados (ITSM):** Gerenciamento completo do ciclo de vida dos incidentes e requisições, assegurando a precisão técnica da documentação e o cumprimento rigoroso dos indicadores de SLA.
-* **Conectividade e Mobilidade:** Configuração de ativos de rede, suporte a periféricos e garantia de acesso seguro via VPN para usuários em modelo híbrido ou remoto.
-* **Deploy e Setup:** Responsável pelo processo de provisionamento de hardware (formatação e instalação de imagens), garantindo que as máquinas estejam prontas e atualizadas para o uso corporativo.
+* **Atendimento e Suporte Direto:** Suporte aos usuários para solução ágil de problemas em hardware, software e periféricos.
+* **Deploy e Setup:** Formatação, configuração de imagens corporativas e instalação de sistemas operacionais.
+* **Gestão de Chamados:** Acompanhamento, registro e gerenciamento do ciclo de vida de chamados técnicos.
 
 ---
 
-### 🎓 Formação & Expertise
+### 🎓 Formação Acadêmica
 
-Atualmente, foco no desenvolvimento de competências em todo o ciclo de vida do software, unindo planejamento estratégico e execução técnica:
-
-* **Tecnologia em Análise e Desenvolvimento de Sistemas (UniCesumar - Cursando):** Formação focada em traduzir necessidades de negócio em soluções funcionais por meio de **Análise de Requisitos** e **Design de Sistemas**. Aplicação prática de **Lógica de Programação** e **Metodologias Ágeis**.
-
-* **Técnico em Informática para Internet (IFRJ - Concluído):** Base sólida em infraestrutura de TI, redes e fundamentos de desenvolvimento **Full Stack**, garantindo compreensão ampla das camadas física e lógica de aplicações web.
-
-> 💡 **Diferencial:** A união da graduação com a formação técnica me proporciona uma **visão holística do desenvolvimento**, permitindo transitar com facilidade entre a arquitetura do software e a escrita de código focada em performance e escalabilidade.
+* **Tecnologia em Análise e Desenvolvimento de Sistemas (UniCesumar - Cursando):** Foco em Análise de Requisitos, Design de Sistemas, Lógica de Programação e Metodologias Ágeis.
+* **Técnico em Informática para Internet (IFRJ - Concluído):** Base sólida em infraestrutura de TI, redes e fundamentos de desenvolvimento Web Full Stack.
 
 ---
 
-### 🛠️ Principais Competências
+### 📜 Cursos Complementares & Certificações
 
-* 🛠️ **Suporte Técnico Nível 2 & Troubleshooting:** Resolução ágil de falhas complexas em sistemas operacionais e infraestrutura.
-* 📋 **ITIL & Gestão de Serviços de TI (ITSM):** Boas práticas de atendimento, cumprimento rigoroso de SLAs e documentação técnica.
-* ⚙️ **Análise & Arquitetura de Sistemas:** Foco na modelagem de software, qualidade de código e soluções escaláveis no Back-end.
+* **Desenvolvimento Back-End** — (180h)
+* **Programador Web** — IFRS (200h)
+* **Manutenção de Computadores** — IFSUL (60h)
+* **Lógica de Programação** — SENAI (14h)
+* **Trilha de Conhecimento em Segurança da Informação & LGPD** — Fundação Bradesco / Escola Virtual (14h)
+
+---
+
+### 🛠️ Conhecimentos & Habilidades Técnicas
+
+* **Suporte & Infraestrutura:** Atendimento N1/N2, Suporte a Usuários, Windows e Boas Práticas ITIL.
+* **Redes & Segurança:** Configuração de Redes (TCP/IP, DHCP, DNS), VPN e Gestão de Acessos (AD).
+* **Desenvolvimento & Banco de Dados:** Lógica de Programação, JavaScript, Python, Java, HTML/CSS e MySQL.
+* **Ferramentas:** Git, GitHub e Pacote Office / M365.
+
+---
+
+### 🧠 Habilidades Comportamentais (Soft Skills)
+
+* **Comunicação Clara e Acessível:** Perfil comunicativo, facilitando o diálogo entre usuários e equipes técnicas.
+* **Trabalho em Equipe:** Facilidade para colaborar, apoiar parceiros de time e manter um ambiente harmonioso.
+* **Transparência e Aprendizado Contínuo:** Humildade técnica para reconhecer o que ainda não domina e proatividade para pesquisar, aprender e evoluir rapidamente.
+* **Dedicação e Esforço:** Comprometimento e empenho para entregar resultados com qualidade e superar desafios operacionais.
 
 ---
 
@@ -107,9 +114,9 @@ Atualmente, foco no desenvolvimento de competências em todo o ciclo de vida do 
 
 ---
 
-###  Contato
+### 📍 Contato
 
-✉️ **E-mail:** [erickmonteiro3000@gmail.com](mailto:erickmonteiro3000@gmail.com) 
+✉️ **E-mail:** [erickmonteiro3000@gmail.com](mailto:erickmonteiro3000@gmail.com)  
 📱 **Telefone / WhatsApp:** [+55 (21) 96403-4657](https://wa.me/5521964034657)
 
 <p align="center">
