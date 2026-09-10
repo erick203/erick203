@@ -107,9 +107,9 @@ Atualmente, foco no desenvolvimento de competências em todo o ciclo de vida do 
 
 ---
 
-### 📍 Localização & Contato
+###  Contato
 
-📍 **Endereço:** Rua Cleber Santos de Carvalho — Vilar dos Teles, São João de Meriti - RJ (CEP: 25576-261)  
+ **e-mail:** Rua Cleber Santos de Carvalho — Vilar dos Teles, São João de Meriti - RJ (CEP: 25576-261)  
 📱 **Telefone / WhatsApp:** [+55 (21) 96403-4657](https://wa.me/5521964034657)
 
 <p align="center">
